@@ -1,6 +1,6 @@
                Étape 1 – Création du projet
 
-               
+  -> 
                
             Image 1 – Fenêtre Add an Activity to Mobile :
 
@@ -14,7 +14,7 @@
 
               Étape 2 – Modifier le logo et le menu
 
-
+->
 
               
         Image 2 – Choix d’une icône vectorielle dans Vector Asset Studio :
@@ -50,6 +50,9 @@
 
 
 
+
+
+
 <img width="913" height="472" alt="Capture d&#39;écran 2026-05-21 211647" src="https://github.com/user-attachments/assets/4357c173-6612-490c-92a1-d4e8a74d1429" />
 
 
@@ -59,6 +62,9 @@
 
              
 
+->
+
+
              BlankFragment
 
 
@@ -66,6 +72,7 @@
      
 
 
+->
 
 
              BlankFragment2
@@ -82,9 +89,12 @@
 3.2 Modifier les couleurs d’arrière-plan
 
 
+->
+
 
 
                 Image 7 – Aperçu du fragment 1 (fond PINK ) :
+
 
 
 
@@ -94,7 +104,9 @@
 
 
 
+
                  Image 8 – Aperçu du fragment 2 (fond Blue) :
+
 
 
                  
@@ -107,6 +119,8 @@
 
               Étape 6 – Ajouter un Fragment de type ListFragment
 
+
+->
 
 
  
